@@ -22,3 +22,5 @@ NovaTech409B_AC = deprecated_import_alias(
     
 NovaTech440A = deprecated_import_alias(
     "naqs_devices.NovaTechDDS.labscript_device.NovaTech440A")
+
+__version__ = '0.1.0'
