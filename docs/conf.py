@@ -22,7 +22,7 @@ copyright = '2025, naqslab'
 author = 'naqslab'
 
 # Necessary for dynamic versioning, change the argument to the Device str
-version = importlib.metadata.version('naqs_devices_KeysightXSeries')
+version = importlib.metadata.version('naqs_devices_NovaTechDDS')
 release = version
 
 # get version into rst files
